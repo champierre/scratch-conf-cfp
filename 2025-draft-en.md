@@ -46,7 +46,7 @@ This export capability creates a bridge between Scratch's user-friendly environm
 
 ## Converting SVG to PDF for Laser Cutting
 
-Most laser cutting systems accept PDF files containing vector data. To convert the SVG files exported from Scratch to the required PDF format, users can utilize "Gazou Magick" (画像マジック), a web-based conversion tool available at https://champierre.github.io/gazou-magick/[^1_16].
+Most laser cutting systems accept PDF files containing vector data. To convert the SVG files exported from Scratch to the required PDF format, users can utilize "Gazou Magick" (画像マジック), a web-based conversion tool available at https://champierre.github.io/gazou-magick/ [^1_16].
 
 The conversion process is straightforward:
 
